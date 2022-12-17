@@ -1,0 +1,6 @@
+name: KBShop
+main: dev.kobi.main.KBShop
+version: 1.0.0
+commands:
+  fnpc:
+    description: make and edit a fake NPC
